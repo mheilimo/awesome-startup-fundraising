@@ -120,6 +120,8 @@ Long-form content that teaches you how to fundraise and build.
 
 - [**Techstars Blog & Education**](https://www.techstars.com/education) → Playbooks, talks, and courses from the Techstars accelerator network.
 
+- [**TA Strategic Advisory**](https://tacfoadvisory.com/) → Fractional CFO practice for VC/PE-backed startups: fundraising support, FP&A, financial modeling, investor reporting.
+
 ---
 
 ## **VC / Angel Networks & Platforms**
